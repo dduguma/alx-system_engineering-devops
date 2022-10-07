@@ -1,2 +1,1 @@
-A s
-echo A script that changes the working directory to the users home directory.
+display our current directory contents in long format
